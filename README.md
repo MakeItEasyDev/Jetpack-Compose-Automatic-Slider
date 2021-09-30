@@ -19,5 +19,5 @@ If you want slider Indicator, Please add the code
             pagerState = pagerState,
             modifier = Modifier
                 .align(Alignment.CenterHorizontally)
-                .padding(16.dp),
+                .padding(16.dp)
         )
