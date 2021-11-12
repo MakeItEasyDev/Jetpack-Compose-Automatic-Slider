@@ -1,6 +1,6 @@
 # Jetpack-Compose-Automatic-Slider
 
-# YouTube link -> https://www.youtube.com/watch?v=rsHyjOTkxlM
+## [Watch it On YouTube](https://www.youtube.com/watch?v=rsHyjOTkxlM)
 
 If you want slider Indicator, Please add the code
 
